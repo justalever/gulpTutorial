@@ -1,0 +1,1 @@
+{"version":3,"sources":["_partials/_base.scss"],"names":[],"mappings":"AAAA,IAAI,AAAC,CACJ,UAAU,CAAE,IAAI,CAChB,KAAK,CAAE,KAAK,CACZ","file":"../style.css","sourcesContent":["body {\n\tbackground: blue;\n\tcolor: white;\n}"]}
