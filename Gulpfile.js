@@ -35,7 +35,7 @@ gulp.task('sass', function() {
 });
 
 gulp.task('html', function(){
-	gulp.src('./html')
+	gulp.src('./*html')
 	.pipe(connect.reload());
 });
 
